@@ -1,3 +1,12 @@
-# angular-ivy-r7wrgk
+# TechLabs Consultoria em Inovação
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-r7wrgk)
+
+## Objetivo
+
+Este projeto tem como objetivo ajudar empreendedores do ramo de alimentação
+
+## Time
+
+- Beatriz Maria da Silva Pereira
+- Kaly Chung
+- Lucas
